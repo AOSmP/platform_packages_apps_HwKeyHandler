@@ -1,0 +1,5 @@
+-keep public class com.aosip.hwkey.HardkeyActionHandler
+
+-keepclassmembers public class com.aosip.hwkey.HardkeyActionHandler {
+    *;
+}
